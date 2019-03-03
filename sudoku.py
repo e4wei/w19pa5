@@ -37,8 +37,6 @@ class Solver:
 		self.grid = grid
 	def solve(self):
 		return True
-	def search(self, sigma):
-		pass
 	def consistent(self, spot, value, sigma):
 		pass
 	def infer(self, sigma):
