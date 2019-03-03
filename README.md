@@ -11,7 +11,7 @@ Tasks (14 Points)
 
 - Sudoku Solver (13 Points)
 
-Implement a Sudoku solver based on techniques explained in [this post](http://norvig.com/sudoku.html). You can read learn from the code but need to adapt it without changing the data structures in the given starter code in `sudoku.py`. You can change the function signatures in the Solver class if you like (and add more functions of course). 
+Implement a Sudoku solver based on techniques explained in [this post](http://norvig.com/sudoku.html). Feel free to learn from the code but need to adapt it without changing the data structures in the given starter code in `sudoku.py`. You can change the function signatures in the Solver class if you like (and add more functions of course). 
 
 We will test your solver on benchmarks in `easy_sudoku_problems.txt` and `hard_sudoku_problems.txt`. 
 
@@ -34,5 +34,5 @@ Extend the SAT encoding of Sudoku to Hexaduko and solve the problems in `hexadok
 
 Files to submit
 -----
-Just `sudoku.py`. For the extra credit parts: `hexadoku.py`, `sudoku-with-sat.py`, `hexadoku-with-sat.py`. In grading we will assume an executable SAT solver named `picosat` can be used from the parent directory of these files (i.e., make your path to SAT solver to be `../picosat`), unless you specify otherwise. 
+Just `sudoku.py`. For the extra credit parts: `hexadoku.py`, `sudoku-with-sat.py`, `hexadoku-with-sat.py`. In grading we will assume an executable SAT solver named `picosat` can be used from the parent directory of these files (i.e., make your path to SAT solver to be `../picosat`). 
 
