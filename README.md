@@ -11,7 +11,7 @@ Tasks (14 Points)
 
 - Sudoku Solver (13 Points)
 
-Implement a Sudoku solver based on techniques explained in [this post](http://norvig.com/sudoku.html). You can read learn from the code but need to adapt it without changing the data structures in the given starter code in `sudoku.py`. 
+Implement a Sudoku solver based on techniques explained in [this post](http://norvig.com/sudoku.html). You can read learn from the code but need to adapt it without changing the data structures in the given starter code in `sudoku.py`. You can change the function signatures in the Solver class if you like (and add more functions of course). 
 
 We will test your solver on benchmarks in `easy_sudoku_problems.txt` and `hard_sudoku_problems.txt`. 
 
